@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Anton&family=Marck+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 body {
     padding: 10px;
 
-    font-family: 'Marck Script', cursive;
+    font-family: 'Lobster', cursive;
     text-align: center;
     font-weight: bold;
     font-size: 35px;
@@ -44,14 +44,15 @@ main .some-content {
     padding: 10px;
     margin: 20px 0;
 
-    border: 2px solid black;
+    border: 3px solid black;
     border-radius: 10px;
 }
 
 .history-info {
     width: 90%;
 
-    border: 2px solid black;
+    border: 3px solid black;
+    border-radius: 10px;
 
     font-size: 25px;
     word-wrap: break-word;
